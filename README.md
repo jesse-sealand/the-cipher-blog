@@ -1,2 +1,2 @@
 # the-cipher-blog
-The public blog that I won't want you to read.
+The public blog that I don't want you to read.
