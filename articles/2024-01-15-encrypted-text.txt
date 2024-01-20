@@ -1,0 +1,4 @@
+Words,229
+Lines,1
+Characters,1323
+Ascii Range,[32-121]
